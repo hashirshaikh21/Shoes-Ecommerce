@@ -32,7 +32,7 @@
                     <option value="us">United States</option>
                     <option value="uk">United Kingdom</option>
                     <option value="ca">Canada</option>
-                    <option value="au">Australia</option>
+                    <option value="au">UAE</option>
                     <option value="other">Other</option>
                 </select>
             </div>
@@ -61,17 +61,17 @@
         </form>
 
         <div class="contact-info">
-            <h3>Points of Contact</h3>
+            <h3>Contacts</h3>
             <p><strong>Customer Service</strong><br>
-                Email: <a href="mailto:support@shoeshop.com">support@shoeshop.com</a><br>
-                Phone: 1-800-555-1234
+                Email: <a href="mailto:support@nemesis.com">support@nemesis.com</a><br>
+                Phone: 111-222-3333
             </p>
             <p><strong>Business Inquiries</strong><br>
-                Email: <a href="mailto:partnerships@shoeshop.com">partnerships@shoeshop.com</a>
+                Email: <a href="mailto:business@nemesis.com">business@nemesis.com</a>
             </p>
             <p><strong>Additional Locations</strong><br>
-                USA - 123 Shoe St., Suite 100, New York, NY 10001<br>
-                Europe - 45 Fashion Rd., London, UK 10234
+            123 Manga Lane, Otaku City, Kyoto, 56789, Japan<br>
+            789 Webtoon Road, Manhwa City, Seoul, 54321, South Korea
             </p>
         </div>
     </div>
